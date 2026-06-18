@@ -1,0 +1,5 @@
+Write an email based on the following details:
+
+Intent: {intent}
+Key Facts: {key_facts}
+Tone: {tone}

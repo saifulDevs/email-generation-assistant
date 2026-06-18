@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets / local env
+.env
+email-generation-assistant/.env
+
+# Generated evaluation outputs
+email-generation-assistant/reports/

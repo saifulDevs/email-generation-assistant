@@ -1,0 +1,102 @@
+[
+  {
+    "scenario_id": "S001",
+    "intent": "Announce the launch of a new product to existing customers",
+    "key_facts": [
+      "Product name is 'ProAnalytics v2'",
+      "Available starting next Monday",
+      "Existing customers get a 20% discount for the first year"
+    ],
+    "tone": "Excited and professional"
+  },
+  {
+    "scenario_id": "S002",
+    "intent": "Follow up after an initial sales discovery call",
+    "key_facts": [
+      "Meeting was yesterday",
+      "Attached is the product pricing deck",
+      "Suggest a technical demo for next Wednesday"
+    ],
+    "tone": "Polite and action-oriented"
+  },
+  {
+    "scenario_id": "S003",
+    "intent": "Apologize for a recent unplanned service downtime",
+    "key_facts": [
+      "Service was down for 2 hours on Tuesday",
+      "Issue was caused by a database migration failure",
+      "Will credit 10% of monthly bill to affected accounts"
+    ],
+    "tone": "Empathetic and transparent"
+  },
+  {
+    "scenario_id": "S004",
+    "intent": "Extend a job offer to a candidate",
+    "key_facts": [
+      "Position is Senior AI Engineer",
+      "Starting salary is $150,000",
+      "Start date is expected to be within 4 weeks"
+    ],
+    "tone": "Welcoming and formal"
+  },
+  {
+    "scenario_id": "S005",
+    "intent": "Request to reschedule an upcoming project kickoff meeting",
+    "key_facts": [
+      "Current meeting is scheduled for tomorrow at 10 AM",
+      "Need to move it because the project lead is out sick",
+      "Propose alternative times: Thursday 2 PM or Friday 10 AM"
+    ],
+    "tone": "Apologetic and professional"
+  },
+  {
+    "scenario_id": "S006",
+    "intent": "Provide a weekly update on the mobile app project to stakeholders",
+    "key_facts": [
+      "Phase 1 development is 100% complete",
+      "Beta testing will begin next week",
+      "Currently under budget by 5%"
+    ],
+    "tone": "Confident and informative"
+  },
+  {
+    "scenario_id": "S007",
+    "intent": "Remind a client about an overdue invoice",
+    "key_facts": [
+      "Invoice #4592 is 15 days past due",
+      "Amount owed is $3,500",
+      "Request immediate payment to avoid late fees"
+    ],
+    "tone": "Firm but polite"
+  },
+  {
+    "scenario_id": "S008",
+    "intent": "Propose a strategic partnership with a complementary software company",
+    "key_facts": [
+      "Our user bases have a 60% overlap",
+      "Proposing an API integration between our tools",
+      "Suggest a 15-minute introductory call next week"
+    ],
+    "tone": "Persuasive and collaborative"
+  },
+  {
+    "scenario_id": "S009",
+    "intent": "Welcome a new user who just signed up for the SaaS platform",
+    "key_facts": [
+      "Thank them for joining the community",
+      "Highlight the link to the 'Getting Started' video tutorial",
+      "Mention that support is available 24/7 via the in-app chat"
+    ],
+    "tone": "Warm and encouraging"
+  },
+  {
+    "scenario_id": "S010",
+    "intent": "Say farewell to the team on the last day at the company",
+    "key_facts": [
+      "Leaving the company after 4 wonderful years",
+      "Will be transitioning to a new role in a different industry",
+      "Share personal email (jane.doe.personal@email.com) and LinkedIn for staying in touch"
+    ],
+    "tone": "Nostalgic and grateful"
+  }
+]
