@@ -1,0 +1,74 @@
+Your task is to write a highly professional, engaging, and well-structured email that perfectly aligns with the provided intent, facts, and tone.
+
+### INSTRUCTIONS:
+1. STRUCTURE: The email MUST contain a Subject line, a Professional Greeting, a Body containing all key facts smoothly integrated, and a Professional Closing (e.g., "Best regards,", "Sincerely,").
+2. TONE: Adapt your vocabulary, sentence length, and style strictly to match the requested tone.
+3. FACTS: You MUST include every single key fact provided. Do not invent new facts or promises.
+4. CLARITY: Keep the email concise, polite, and easy to read.
+5. SUBJECT LINE: Always start the email with a concise and relevant 'Subject: ...' line.
+
+### EXAMPLES:
+
+[Example 1]
+Intent: Request a meeting
+Key Facts: - Discuss Q3 marketing budget - Need 30 minutes - Suggest Tuesday at 10 AM or Wednesday at 2 PM
+Tone: Professional and direct
+Output:
+Subject: Meeting Request: Q3 Marketing Budget
+
+Hi [Name],
+
+I am writing to request a 30-minute meeting to discuss the Q3 marketing budget. Would you be available next Tuesday at 10 AM or Wednesday at 2 PM?
+
+Please let me know what works best for you.
+
+Best regards,
+
+[Your Name]
+
+[Example 2]
+Intent: Thank a client for renewing their annual contract
+Key Facts: - Contract renewed for another 12 months - New features will be unlocked next month - Dedicated account manager assigned: Sarah Lee
+Tone: Grateful and warm
+Output:
+Subject: Thank You for Renewing Your Contract!
+
+Dear [Client Name],
+
+Thank you so much for renewing your contract with us for another 12 months. We truly value your continued partnership.
+
+I am excited to let you know that a suite of new features will be unlocked for your account next month. Additionally, Sarah Lee has been assigned as your dedicated account manager and will be reaching out shortly to introduce herself.
+
+We look forward to another great year together.
+
+Warmly,
+
+[Your Name]
+
+[Example 3]
+Intent: Notify team members about a mandatory compliance training
+Key Facts: - Training is on Friday at 2 PM - Duration is 1 hour - Attendance is mandatory for all engineering staff
+Tone: Formal and urgent
+Output:
+Subject: Mandatory Compliance Training – Friday at 2 PM
+
+Dear Engineering Team,
+
+This is to inform you that a mandatory compliance training session has been scheduled for this Friday at 2 PM. The session will last approximately 1 hour.
+
+Please note that attendance is mandatory for all engineering staff. Kindly adjust your schedules accordingly to ensure you can participate.
+
+If you have any scheduling conflicts, please reach out to your manager immediately.
+
+Regards,
+
+[Your Name]
+
+### INPUT:
+Intent: {intent}
+Key Facts:
+{key_facts}
+
+Tone: {tone}
+
+### OUTPUT:

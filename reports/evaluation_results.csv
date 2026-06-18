@@ -1,0 +1,21 @@
+scenario_id,intent,strategy,fact_coverage_score,tone_alignment_score,professional_structure_score,overall_score
+S001,Announce the launch of a new product to existing customers,Baseline,1.0,0.9,1.0,0.967
+S001,Announce the launch of a new product to existing customers,Advanced,1.0,1.0,1.0,1.0
+S002,Follow up after an initial sales discovery call,Baseline,1.0,1.0,0.667,0.889
+S002,Follow up after an initial sales discovery call,Advanced,1.0,1.0,1.0,1.0
+S003,Apologize for a recent unplanned service downtime,Baseline,1.0,1.0,1.0,1.0
+S003,Apologize for a recent unplanned service downtime,Advanced,1.0,0.9,1.0,0.967
+S004,Extend a job offer to a candidate,Baseline,1.0,0.9,0.667,0.856
+S004,Extend a job offer to a candidate,Advanced,1.0,0.9,1.0,0.967
+S005,Request to reschedule an upcoming project kickoff meeting,Baseline,1.0,1.0,1.0,1.0
+S005,Request to reschedule an upcoming project kickoff meeting,Advanced,1.0,1.0,1.0,1.0
+S006,Provide a weekly update on the mobile app project to stakeholders,Baseline,1.0,0.9,1.0,0.967
+S006,Provide a weekly update on the mobile app project to stakeholders,Advanced,1.0,0.9,1.0,0.967
+S007,Remind a client about an overdue invoice,Baseline,1.0,0.9,1.0,0.967
+S007,Remind a client about an overdue invoice,Advanced,1.0,0.9,1.0,0.967
+S008,Propose a strategic partnership with a complementary software company,Baseline,1.0,0.9,0.667,0.856
+S008,Propose a strategic partnership with a complementary software company,Advanced,1.0,0.9,1.0,0.967
+S009,Welcome a new user who just signed up for the SaaS platform,Baseline,1.0,1.0,1.0,1.0
+S009,Welcome a new user who just signed up for the SaaS platform,Advanced,1.0,1.0,1.0,1.0
+S010,Say farewell to the team on the last day at the company,Baseline,1.0,1.0,1.0,1.0
+S010,Say farewell to the team on the last day at the company,Advanced,1.0,1.0,1.0,1.0

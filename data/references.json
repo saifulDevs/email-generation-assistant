@@ -1,0 +1,42 @@
+[
+  {
+    "scenario_id": "S001",
+    "reference_email": "Subject: Introducing ProAnalytics v2!\n\nDear Customer,\n\nWe are thrilled to announce the launch of our newest product, ProAnalytics v2! Our team has been working hard to bring you even more powerful insights.\n\nProAnalytics v2 will be officially available starting next Monday. As a token of our appreciation for your continued support, we are offering all existing customers a 20% discount for the first year of use.\n\nWe can't wait for you to experience the new features.\n\nBest regards,\n\nThe Product Team"
+  },
+  {
+    "scenario_id": "S002",
+    "reference_email": "Subject: Follow-up: Our Meeting and Next Steps\n\nHi [Name],\n\nThank you for taking the time to speak with me yesterday. I enjoyed learning more about your goals and how we can help.\n\nAs promised, I have attached our product pricing deck for your review. I would love to schedule a technical demo for next Wednesday to walk you through the platform in more detail. \n\nPlease let me know if that works for your schedule.\n\nBest,\n\n[Your Name]"
+  },
+  {
+    "scenario_id": "S003",
+    "reference_email": "Subject: Important Update: Recent Service Outage\n\nDear Valued Customer,\n\nWe sincerely apologize for the disruption you experienced. On Tuesday, our service was down for approximately 2 hours. \n\nThis issue was caused by a database migration failure, which our engineering team has since fully resolved. We understand how critical our service is to your operations, and we are taking steps to prevent this from happening again. To help make up for the inconvenience, we will credit 10% of your monthly bill to your account.\n\nThank you for your patience and understanding.\n\nSincerely,\n\nThe Support Team"
+  },
+  {
+    "scenario_id": "S004",
+    "reference_email": "Subject: Job Offer: Senior AI Engineer\n\nDear [Candidate Name],\n\nWe are delighted to formally extend an offer of employment for the position of Senior AI Engineer at our company. \n\nWe are offering a starting salary of $150,000 per year. We expect your start date to be within 4 weeks, depending on your availability.\n\nWe were very impressed by your skills and experience, and we are excited about the prospect of you joining our team. Please review the attached formal offer letter for full details.\n\nSincerely,\n\n[Your Name]"
+  },
+  {
+    "scenario_id": "S005",
+    "reference_email": "Subject: Rescheduling Request: Project Kickoff Meeting\n\nHi [Name],\n\nI apologize for any inconvenience, but I need to request a reschedule for our project kickoff meeting currently set for tomorrow at 10 AM. \n\nUnfortunately, our project lead is out sick, and it is important that they are present for this initial discussion. Would it be possible to move our meeting to either Thursday at 2 PM or Friday at 10 AM?\n\nPlease let me know which time works best for you.\n\nBest regards,\n\n[Your Name]"
+  },
+  {
+    "scenario_id": "S006",
+    "reference_email": "Subject: Weekly Project Update: Mobile App\n\nHi Team,\n\nI am writing to provide our weekly update on the mobile app project. \n\nI am pleased to report that Phase 1 development is now 100% complete. This keeps us firmly on schedule, and beta testing will officially begin next week. Additionally, we are currently tracking under budget by 5%.\n\nThank you all for your continued hard work.\n\nBest,\n\n[Your Name]"
+  },
+  {
+    "scenario_id": "S007",
+    "reference_email": "Subject: Reminder: Overdue Invoice #4592\n\nDear [Client Name],\n\nI hope this email finds you well. \n\nI am writing to remind you that Invoice #4592 is currently 15 days past due. The total amount owed is $3,500. We kindly request immediate payment to avoid the application of any late fees to your account.\n\nIf you have already submitted payment, please disregard this notice. Otherwise, please remit payment at your earliest convenience.\n\nSincerely,\n\n[Your Name]"
+  },
+  {
+    "scenario_id": "S008",
+    "reference_email": "Subject: Exploring a Strategic Partnership\n\nHi [Name],\n\nI’ve been following [Company Name] and am very impressed with your growth. \n\nI noticed that our user bases have an estimated 60% overlap, which presents a great opportunity. I am proposing an API integration between our tools that could provide significant value to our shared customers. I would love to schedule a 15-minute introductory call next week to explore this further.\n\nLet me know if you are open to a brief chat.\n\nBest,\n\n[Your Name]"
+  },
+  {
+    "scenario_id": "S009",
+    "reference_email": "Subject: Welcome to the Community!\n\nHi [Name],\n\nWelcome aboard! We are so glad to have you join our community.\n\nTo help you hit the ground running, I highly recommend checking out our 'Getting Started' video tutorial linked below. If you ever have any questions, our support team is available 24/7 via the in-app chat.\n\nWe are here to ensure you have a great experience.\n\nWarmly,\n\nThe Success Team"
+  },
+  {
+    "scenario_id": "S010",
+    "reference_email": "Subject: Farewell and Thank You\n\nHi Everyone,\n\nAs some of you may know, today is my last day at the company. \n\nI am leaving after 4 wonderful years to transition into a new role in a different industry. It has been an absolute privilege working alongside such a talented group of people. \n\nI would love to stay in touch! You can reach me at my personal email (jane.doe.personal@email.com) or connect with me on LinkedIn.\n\nThank you for everything.\n\nBest,\n\n[Your Name]"
+  }
+]
